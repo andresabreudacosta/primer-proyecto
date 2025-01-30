@@ -1,0 +1,28 @@
+/*selector por etiquetas*/
+h1{ 
+    color: blue;
+
+}
+
+h2 {
+color: green;
+
+}
+p {
+color: red;
+
+}
+
+
+
+/*selector de clase*/
+.content1 {
+
+    color:aquamarine;
+} 
+
+
+/*selector por id*/
+#Prueba  {
+color:blanchedalmond
+}
